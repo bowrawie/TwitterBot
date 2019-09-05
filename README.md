@@ -1,5 +1,5 @@
-# twitterbot
-###### Meme generating automatic script that posts on twitter.
+# TwitterBot 
+###### Meme generating automatic script that posts on twitter, i call her Aurelle.
 
 Visit the humor at [Twitter](https://twitter.com/bruhmomentbot)
 
